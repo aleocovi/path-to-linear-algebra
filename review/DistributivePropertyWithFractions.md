@@ -10,7 +10,7 @@ Practice:
 
 Use the distributive property to expand the expression:
 
-$$ 2x \over yz ({5x \over 3y} + {x^2 \over z}) $$
+$$ {2x \over yz} ({5x \over 3y} + {x^2 \over z}) $$
 
 Distribute:
 
